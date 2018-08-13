@@ -1,0 +1,40 @@
+#gotoSurvey{
+	margin-right: 900px;
+}
+#submitButton {
+	width: 100%;
+	margin: 25px 0;
+	line-height: 200%;
+}
+.bottom {
+	margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+	margin-left: 15px;
+	font-family: inherit;
+}
+
+.container{
+	margin-left: auto;
+}
+
+h1,h2 {
+	text-align: left;
+}
+
+h3 {
+	font-weight: bold;
+	color: black;
+}
+
+h4 {
+font-size: 18px;
+font-family: inherit;
+font-weight: 500;
+color:inherit;
+}
+
+p {
+	font-family: inherit;
+	margin: 0 0 10px;
+}

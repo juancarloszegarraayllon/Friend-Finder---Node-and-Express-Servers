@@ -1,0 +1,30 @@
+{
+  "name": "Friend-Finder---Node-and-Express-Servers",
+  "version": "1.0.0",
+  "description": "A compatibility-based \"Friend Finder\" application -- basically a dating app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancarloszegarraayllon/Friend-Finder---Node-and-Express-Servers"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Juan Carlos Zegarra Ayllon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancarloszegarraayllon/Friend-Finder---Node-and-Express-Servers/issues"
+  },
+  "homepage": "https://github.com/juancarloszegarraayllon/Friend-Finder---Node-and-Express-Servers",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
